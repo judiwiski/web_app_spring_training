@@ -1,6 +1,6 @@
 # Template for Maven based exercises
 
-[![build workflow](https://github.com/judiwiski/web_app_spring_training/.github/workflows/build.yml/badge.svg)](https://github.com/judiwiski/web_app_spring_training)
+[![build workflow](https://github.com/judiwiski/web_app_spring_training/tree/main/.github/workflows/build.yml/badge.svg)](https://github.com/judiwiski/web_app_spring_training)
 [![codecov](https://codecov.io/gh/lernejo/maven_starter_template/branch/main/graph/badge.svg)](https://codecov.io/gh/lernejo/maven_starter_template)
 
 ## Build the project
